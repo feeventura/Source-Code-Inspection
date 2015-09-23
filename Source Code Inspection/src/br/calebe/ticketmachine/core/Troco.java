@@ -79,8 +79,6 @@ class Troco {
         }
 
         @Override
-        public void remove() {
-            next();
-        }
+        
     }
 }
