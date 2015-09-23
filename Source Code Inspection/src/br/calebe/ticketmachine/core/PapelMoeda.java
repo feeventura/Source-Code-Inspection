@@ -7,7 +7,7 @@ package br.calebe.ticketmachine.core;
 public class PapelMoeda {
 
     public int valor;
-    protected int quantidade;
+    public int quantidade;
 
     public PapelMoeda(int valor, int quantidade) {
         this.valor = valor;
